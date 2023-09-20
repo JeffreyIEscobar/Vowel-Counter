@@ -4,7 +4,6 @@ This is a simple web application that counts the number of vowels in a given sen
 
 ## Table of Contents
 - [Usage](#usage)
-- [Directory Structure](#directory-structure)
 - [License](#license)
 
 ## Usage
@@ -24,15 +23,17 @@ This will start a local web server on port 8000.
 
 5. Enter a sentence or text in the input field and click the "Count Vowels" button to see the vowel count displayed on the web page.
 
-## Directory Structure
 
-The project directory structure is as follows:
+- `index.html`: HTML file for the web page structure.
+- `style.css`: CSS file for styling the web page.
+- `server.py`: Python script to run a simple web server.
+- `script.js`: JavaScript code for counting vowels.
+- `README.md`: This file, containing project information and instructions.
 
-Vowel-Counter/
-├── index.html
-├── style.css
-├── server.py
-├── script.js
-├── README.md
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 
