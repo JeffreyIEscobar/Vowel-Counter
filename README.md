@@ -34,6 +34,11 @@ This will start a local web server on port 8000.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Contributing
+
+Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
+
+
 
 ## Contact
 
