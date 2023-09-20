@@ -39,7 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
 
 
-
 ## Contact
 
 For questions or feedback, please contact Jeffrey I. Escobar via Jeffreyianescobar@gmail.com
