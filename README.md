@@ -25,9 +25,13 @@ This will start a local web server on port 8000.
 
 
 - `index.html`: HTML file for the web page structure.
+  
 - `style.css`: CSS file for styling the web page.
+  
 - `server.py`: Python script to run a simple web server.
+  
 - `script.js`: JavaScript code for counting vowels.
+  
 - `README.md`: This file, containing project information and instructions.
 
 ## License
@@ -37,7 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
-
 
 ## Contact
 
