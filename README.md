@@ -2,6 +2,14 @@
 
 This is a simple web application that counts the number of vowels in a given sentence or text.
 
+**Technologies Used:**
+
+- **HTML:** Used for creating the structure of the web page.
+- **CSS:** Used for styling the web page and making it visually appealing.
+- **JavaScript:** Used for implementing the vowel counting logic and interactivity.
+- **Python:** Used for running a simple web server to serve the web application locally.
+
+
 ## Table of Contents
 - [Usage](#usage)
 - [License](#license)
